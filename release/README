@@ -1,0 +1,61 @@
+MoMu: A Mobile Music Toolkit
+
+Copyright (c) 2010 Nicholas J. Bryan, Jorge Herrera, Jieun Oh, and Ge Wang
+  All rights reserved.
+  http://momu.stanford.edu/toolkit/
+
+Mobile Music Research @ CCRMA
+Music, Computing, Design Group
+Stanford University
+  http://momu.stanford.edu/
+  http://ccrma.stanford.edu/groups/mcd/
+
+* MoMu is distributed under a BSD-style open source license (see COPYING).
+* OSCpack (by Ross Bencina, used by MoNet) is distributed under a different, 
+also BSD-style open source license (see the OSCpack directory).
+* The Synthesis Toolkit (STK, a port of which is included in this 
+distribution) is distributed by Perry R. Cook and Gary Scavone under
+a GPL open source license (see the STK directory)
+
+---
+what is it: MoMu is a Mobile Music software toolkit, aimed to facilitate
+rapidly development of musical interactions on mobile devices.  This
+release of MoMu targets the iPhone platform (iPhone, iPod Touch, and
+iPad).  It includes a set of API's in C++/Objective C for the following
+elements:
+
+  * real-time audio I/O (mo_audio)
+  * accelerometer
+  * compass
+  * location
+  * networking (via OpenSoundControl)
+  * multi-touch
+  * graphics
+  * audio file input
+  * filters
+  * additional utilities
+
+who it is for: 
+
+  * audio/multimedia researcher
+  * iPhone developers
+  * interaction designers
+  * students
+
+what this distribution includes:
+  - MoMu APIs with full source code
+  - OSCpack (used by MoNet)
+  - a port of STK
+  - license + other information
+
+supported platforms:
+  - iPhone (iPhone, iPod Touch, iPad)
+
+authors:
+  see AUTHORS  
+
+We hope you find this useful!  Have fun with it!
+
+All the best,
+Nick, Jorge, Jieun, and Ge
+

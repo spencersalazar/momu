@@ -1,0 +1,16 @@
+---
+MoMu-1.0.0
+  - initial release!
+  - includes these API's:
+    * MoAccel - accelerometer
+    * MoAudio - real-time audio I/O
+    * MoCompass - compass
+    * mo_def.h (global definitions files)
+    * MoFFT - fast fourier transform
+    * MoFilter - first and second order digital filters
+    * MoGfx - helper graphics routines for OpenGL ES
+    * MoLocation - location
+    * MoNet - networking via OSC; pronounced like the impressionist painter
+    * MoThread - simple thread library
+    * MoTouch - multi-touch
+
